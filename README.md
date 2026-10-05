@@ -122,7 +122,7 @@ const jordy = {
 <td width="33%" valign="top">
 
 #### 💻 Software Engineering
-**[Nama Project Web/App](https://github.com/jordylf/YOUR_PROJECT_REPO)**
+**[LPSE & INAPROC BPKP]([https://github.com/jordylf/magang-emonev-pbj-bpkp](https://spse.inaproc.id/bpkp))**
 <br/>
 <img src="https://via.placeholder.com/400x220?text=App+Preview" width="100%" alt="App Preview" />
 Aplikasi full-stack dengan real-time state management & REST API.
@@ -132,19 +132,8 @@ Aplikasi full-stack dengan real-time state management & REST API.
 </td>
 <td width="33%" valign="top">
 
-#### 📊 Data Analytics
-**[Nama Dashboard/Analitik](https://github.com/jordylf/YOUR_DATA_PROJECT)**
-<br/>
-<img src="https://via.placeholder.com/400x220?text=Dashboard+Preview" width="100%" alt="Dashboard Preview" />
-EDA + dashboard interaktif untuk insight bisnis.
-<br/><br/>
-`Python` `Pandas` `Power BI` `SQL`
-
-</td>
-<td width="33%" valign="top">
-
 #### 🎬 Motion & Design
-**[Reel Motion/Portfolio](https://behance.net/jordylf)**
+**[Reel Motion/Portfolio]([https://portofolio.jordylf.my.id](https://penyuunsada.my.id/portfoliojordy/#/))**
 <br/>
 <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="100%" alt="Motion Reel" />
 Motion branding, logo reveal & UI motion concepts.
@@ -197,7 +186,7 @@ Motion branding, logo reveal & UI motion concepts.
 
 | 🎓 **Pendidikan** | 📜 **Sertifikasi** | 🌍 **Bahasa** |
 |---|---|---|
-| **Universitas Darma Persada** - Teknologi Informasi (2022) | **Google Data Analytics** - Coursera (2025) | **Bahasa Indonesia** (Native) |
+| **Universitas Darma Persada** - Teknologi Informasi (2022) | **Google Data Analytics** - Coursera (2025) | **Bahasa Indonesia** (Native) & **Bahasa Inggris** (Intermediate) |
 
 </div>
 
@@ -227,16 +216,6 @@ Punya proyek yang membutuhkan pendekatan *cross-discipline* (koding + data + des
 <a href="https://cal.com/jordylf">
   <img src="https://img.shields.io/badge/Jadwalkan%20Meeting-6366F1?style=for-the-badge&logo=calendly" alt="Schedule" />
 </a>
-
----
-
-### 🏆 Penghargaan
-
-<img src="https://github-profile-trophy.vercel.app/?username=jordylf&theme=algolia&no-frame=true&row=2&column=6" alt="Trophies" />
-
-**Motivasi Belajar**
-- 📚 Sedang membaca: *[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsman/dp/0132350882)*
-- 🎯 Goal 2025: Rilis produk SaaS + portfolio motion 60 detik
 
 ---
 
