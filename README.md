@@ -159,9 +159,9 @@ Motion branding, logo reveal & UI motion concepts.
 
 ### 🌐 Di Luar GitHub
 
-- 📄 **Portfolio Website:** [yourname.com](https://portofolio.jordylf.my.id)
+- 📄 **Portfolio Website:** [portofolio.jordylf.my.id]([https://portofolio.jordylf.my.id](https://penyuunsada.my.id/portfoliojordy/#/))
 - 🎨 **Behance:** [behance.net/jordylf](https://behance.net/jordylf)
-- 💼 **LinkedIn:** [linkedin.com/in/jordylf](https://linkedin.com/in/jordylf)
+- 💼 **LinkedIn:** [linkedin.com/in/jordylianf](https://linkedin.com/in/jordylianf)
 
 ---
 
@@ -197,9 +197,7 @@ Motion branding, logo reveal & UI motion concepts.
 
 | 🎓 **Pendidikan** | 📜 **Sertifikasi** | 🌍 **Bahasa** |
 |---|---|---|
-| **Universitas X** - Teknik Informatika (2024) | **Google Data Analytics** - Coursera (2025) | **Bahasa Indonesia** (Native) |
-| **Kursus Motion Graphics** - [Platform] (2025) | **AWS Cloud Practitioner** (2024) | **English** (Professional) |
-| **Full-Stack Developer Bootcamp** (2023) | **Adobe Certified Expert - AE/PR** | **Mandarin** (Basic) |
+| **Universitas Darma Persada** - Teknologi Informasi (2022) | **Google Data Analytics** - Coursera (2025) | **Bahasa Indonesia** (Native) |
 
 </div>
 
@@ -210,7 +208,7 @@ Motion branding, logo reveal & UI motion concepts.
 ```yaml
 # 👋 Halo! Saya Jordy
 # Status: Open for freelance & full-time opportunities
-# 🔍 Mencari: Software Development | Data Engineering | Motion Design
+# 🔍 Mencari: Software Development | Data Engineering | Motion Design | Design Graphic
 # 📍 Lokasi: Indonesia (Remote / Hybrid)
 status: "Open to work"
 availability: ["Freelance", "Full-time", "Contract"]
