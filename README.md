@@ -180,18 +180,6 @@ Motion branding, logo reveal & UI motion concepts.
 
 ---
 
-### 🎓 Pendidikan & Sertifikasi
-
-<div align="center">
-
-| 🎓 **Pendidikan** | 📜 **Sertifikasi** | 🌍 **Bahasa** |
-|---|---|---|
-| **Universitas Darma Persada** - Teknologi Informasi (2022) | **Google Data Analytics** - Coursera (2025) | **Bahasa Indonesia** (Native) & **Bahasa Inggris** (Intermediate) |
-
-</div>
-
----
-
 ### 💼 Status & Peluang
 
 ```yaml
