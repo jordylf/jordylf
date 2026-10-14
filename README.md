@@ -217,14 +217,6 @@ Punya proyek yang membutuhkan pendekatan *cross-discipline* (koding + data + des
   <img src="https://img.shields.io/badge/Jadwalkan%20Meeting-6366F1?style=for-the-badge&logo=calendly" alt="Schedule" />
 </a>
 
----
-
-### 💭 Creative Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs" alt="Quote" />
-</div>
-
 <br/>
 
 <div align="center">
