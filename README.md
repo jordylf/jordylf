@@ -11,19 +11,19 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/jordylf" target="_blank">
+<a href="https://linkedin.com/in/jordylianf" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jordylian92@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://behance.net/jordylf" target="_blank">
+<a href="https://behance.net/jordylian" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
 </a>
 <a href="https://github.com/jordylf" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://portofolio.jordylf.my.id">
+<a href="https://odyworks.my.id">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -115,44 +115,6 @@ const jordy = {
 
 ---
 
-### 🚀 Featured Highlights
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 💻 Software Engineering
-**[LPSE & INAPROC BPKP]([https://github.com/jordylf/magang-emonev-pbj-bpkp](https://spse.inaproc.id/bpkp))**
-<br/>
-<img src="https://via.placeholder.com/400x220?text=App+Preview" width="100%" alt="App Preview" />
-Aplikasi full-stack dengan real-time state management & REST API.
-<br/><br/>
-`React` `FastAPI` `PostgreSQL` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎬 Motion & Design
-**[Reel Motion/Portfolio]([https://portofolio.jordylf.my.id](https://penyuunsada.my.id/portfoliojordy/#/))**
-<br/>
-<img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="100%" alt="Motion Reel" />
-Motion branding, logo reveal & UI motion concepts.
-<br/><br/>
-`After Effects` `Premiere Pro` `Blender`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌐 Di Luar GitHub
-
-- 📄 **Portfolio Website:** [portofolio.jordylf.my.id]([https://portofolio.jordylf.my.id](https://penyuunsada.my.id/portfoliojordy/#/))
-- 🎨 **Behance:** [behance.net/jordylf](https://behance.net/jordylf)
-- 💼 **LinkedIn:** [linkedin.com/in/jordylianf](https://linkedin.com/in/jordylianf)
-
----
 
 ### 📊 GitHub Analytics
 
@@ -194,16 +156,6 @@ interests:
   - "Data infrastructure & BI"
   - "Brand motion & UI animation"
 ```
-
-### 🤝 Kolaborasi
-Punya proyek yang membutuhkan pendekatan *cross-discipline* (koding + data + desain)? Mari bicara:
-
-<a href="mailto:jordylian92@gmail.com@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-34D399?style=for-the-badge" alt="Email" />
-</a>
-<a href="https://cal.com/jordylf">
-  <img src="https://img.shields.io/badge/Jadwalkan%20Meeting-6366F1?style=for-the-badge&logo=calendly" alt="Schedule" />
-</a>
 
 <br/>
 
