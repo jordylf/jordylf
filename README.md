@@ -11,10 +11,10 @@
 Building useful software, exploring data, and bringing ideas to life through motion.  
 Based in Indonesia · Creating as **Odyworks**
 
-<a href="https://odyworks.my.id"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/jordylianf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://behance.net/jordylian"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-<a href="mailto:jordylian92@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://odyworks.my.id"><img src="assets/buttons/portfolio.svg" alt="Portfolio" width="148" height="36" /></a>
+<a href="https://linkedin.com/in/jordylianf"><img src="assets/buttons/linkedin.svg" alt="LinkedIn" width="148" height="36" /></a>
+<a href="https://behance.net/jordylian"><img src="assets/buttons/behance.svg" alt="Behance" width="148" height="36" /></a>
+<a href="mailto:jordylian92@gmail.com"><img src="assets/buttons/email.svg" alt="Email" width="148" height="36" /></a>
 
 </div>
 
