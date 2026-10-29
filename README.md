@@ -43,14 +43,14 @@ Based in Indonesia · Creating as **Odyworks**
 ### 🚀 Contribution Spacewar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter contribution animation demo" width="100%" />
+  <img src="assets/space-shooter.gif" alt="Space Shooter animation of jordylf's GitHub contributions" width="100%" />
 </p>
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jordylf&show_icons=true&theme=github_dark&hide_border=true" alt="Jordy's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jordylf&theme=github_dark&hide_border=true" alt="Jordy's contribution streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jordylf&theme=github_dark" alt="Jordy's GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=jordylf&theme=github-dark-blue&hide_border=true" alt="Jordy's contribution streak" width="49%" />
   <br />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jordylf&layout=compact&theme=github_dark&hide_border=true" alt="Jordy's most used languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jordylf&theme=github_dark" alt="Jordy's repositories by language" width="49%" />
 </p>
