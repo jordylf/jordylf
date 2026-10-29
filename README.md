@@ -1,3 +1,7 @@
+<table align="center">
+<tr>
+<td width="740">
+
 <div align="center">
 
 <img src="assets/karina-landscape.gif" alt="Karina aespa" width="600" />
@@ -27,7 +31,7 @@ Based in Indonesia · Creating as **Odyworks**
 
 ### 🛠️ Languages & tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,tailwind,tauri&perline=8" alt="TypeScript, JavaScript, Python, Rust, React, Next.js, Tailwind CSS, Tauri" />
   <br />
   <img src="https://skillicons.dev/icons?i=postgres,sklearn,git,ae,pr,figma&perline=8" alt="PostgreSQL, scikit-learn, Git, After Effects, Premiere Pro, Figma" />
@@ -35,11 +39,12 @@ Based in Indonesia · Creating as **Odyworks**
 
 ### ✨ Selected projects
 
-| Project | What I'm building |
-| :--- | :--- |
-| [AssetFlow](https://github.com/jordylf/AssetFlow) | A Windows asset organizer with 3D model previews. |
-| [SubMotion](https://github.com/jordylf/SubMotion) | Animated, editable captions for After Effects & Premiere Pro. |
-| [Moonlit Unicorn](https://github.com/jordylf/moonlit-unicorn) | An interactive Three.js scene with a toon unicorn and volumetric clouds. |
+<table align="center" width="100%">
+  <tr><th align="left">Project</th><th align="left">What I'm building</th></tr>
+  <tr><td><a href="https://github.com/jordylf/AssetFlow">AssetFlow</a></td><td>A Windows asset organizer with 3D model previews.</td></tr>
+  <tr><td><a href="https://github.com/jordylf/SubMotion">SubMotion</a></td><td>Animated, editable captions for After Effects &amp; Premiere Pro.</td></tr>
+  <tr><td><a href="https://github.com/jordylf/moonlit-unicorn">Moonlit Unicorn</a></td><td>An interactive Three.js scene with a toon unicorn and volumetric clouds.</td></tr>
+</table>
 
 [Explore more projects →](https://github.com/jordylf?tab=repositories)
 
@@ -57,3 +62,7 @@ Based in Indonesia · Creating as **Odyworks**
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jordylf&theme=github_dark" alt="Jordy's repositories by language" width="49%" />
 </p>
+
+</td>
+</tr>
+</table>
