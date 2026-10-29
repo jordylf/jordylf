@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://tenor.com/view/aespa-lemonade-music-video-karina-gif-1124851892673864447">
+  <img src="https://c.tenor.com/D5xG1i_AYv8AAAAC/tenor.gif" alt="Karina aespa — LEMONADE" width="600" />
+</a>
+
 # Hi 👋, I'm Jordy
 
 **Software Developer · Data Analyst · Motion Designer**
