@@ -1,7 +1,3 @@
-<table align="center">
-<tr>
-<td width="740">
-
 <div align="center">
 
 <img src="assets/karina-landscape.gif" alt="Karina aespa" width="600" />
@@ -62,7 +58,3 @@ Based in Indonesia · Creating as **Odyworks**
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jordylf&theme=github_dark" alt="Jordy's repositories by language" width="49%" />
 </p>
-
-</td>
-</tr>
-</table>
